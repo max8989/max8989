@@ -1,16 +1,14 @@
-# 👋 Hi, I’m Maxime Gagné
+Hi, I’m Maxime Gagné
 
 Arch Linux | Self-Hosting | Open Source
 
----
+About Me
 
-## About Me
-Software developer focused on automation, performance, and system-level control.  
-I run a minimal, fast, and open-source stack on custom Linux servers.
+Software developer passionate about automation, performance, and open-source tools. I run a lightweight, self-hosted stack on Linux servers.
+My Setup
 
----
+    Arch Linux + Hyprland
 
-## My Setup
-- **Arch Linux + Hyprland** (daily driver)  
-- Self-hosted tools: NGINX Proxy Manager, Supabase, Prometheus, Nextcloud, Home Assistant, Portainer, Vaultwarden, Docker, NAS  
-- Local + cloud backups
+    Self-hosted: NGINX Proxy Manager, Supabase, Prometheus, Nextcloud, Home Assistant, Portainer, Vaultwarden, Docker, NAS
+
+    Local and cloud backups
